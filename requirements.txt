@@ -1,6 +1,6 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: win-64
-pandas=1.5.2
-streamlit=1.18.1
-transformers=4.24.0
+pandas
+streamlit
+transformers
